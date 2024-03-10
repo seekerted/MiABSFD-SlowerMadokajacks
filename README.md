@@ -7,7 +7,7 @@ When Madokajacks fly to attack you, their turning and flying speed is decreased 
 
 ## Installation
 
-Get and install this mod via Nexus Mods and Vortex (guide also in the link): (todo)
+Get and install this mod via Nexus Mods and Vortex (guide also in the link): <https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/12>
 
 ## Manual / Advanced Installation
 
